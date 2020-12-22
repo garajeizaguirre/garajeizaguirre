@@ -1,4 +1,4 @@
-	<!-- Comienzo del script para nieve -->
+//	<!-- Comienzo del script para nieve -->
 //type="text/javascript">
 //<![CDATA[
 
@@ -499,4 +499,4 @@ addEvent(window,'load',doStart);
 snowStorm = new SnowStorm();
 //]]>
 
-<!-- Fin del script para nieve -->
+//<!-- Fin del script para nieve -->
