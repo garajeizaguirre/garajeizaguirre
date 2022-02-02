@@ -1,2 +1,2 @@
 # garajeizaguirre
-Hi, I am creating a new webpage
+Pagina web de GARAJE IZAGUIRRE S.L.
