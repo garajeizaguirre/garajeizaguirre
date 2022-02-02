@@ -33,7 +33,7 @@ body {
 }
 
 body {
-  background: url(../img/cover.jpg) no-repeat center center fixed;
+  background: url(../img/cover2.jpg) no-repeat center center fixed;
   background-size: cover;
   color: #fff;
   text-align: center;
@@ -139,7 +139,7 @@ body {
  * Subscribe modal box
  */
 #subscribeModal .modal-content {
-  background-color: #303546;
+  background-color: #262626;
   color: #fff;
   text-align: left;
 }
@@ -161,6 +161,7 @@ body {
 #subscribeModal .form-control:focus {
   border-color: #49506a;
 }
+
 
 /*
  * Affix and center
