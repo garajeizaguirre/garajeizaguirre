@@ -387,7 +387,7 @@ h3 {
   display: grid;
   grid-template-columns: minmax(0, 0.95fr) minmax(300px, 0.55fr);
   gap: 64px;
-  align-items: end;
+  align-items: start;
 }
 
 .intro-section > p,
@@ -1117,6 +1117,7 @@ details p {
   .contact-section {
     width: calc(100% - 40px);
     padding: 72px 0;
+    gap: 24px;
   }
 
   .rating-section {
