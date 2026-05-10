@@ -373,6 +373,7 @@ h3 {
 .intro-section,
 .insurance-section,
 .services-section,
+.coverage-towns-section,
 .transport-section,
 .coverage-section,
 .process-section,
@@ -424,6 +425,37 @@ h3 {
 .section-title {
   max-width: 780px;
   margin-bottom: 64px;
+}
+
+.coverage-towns-section {
+  border-top: 1px solid var(--hairline);
+}
+
+.coverage-towns-section > p {
+  max-width: 900px;
+  color: var(--body-strong);
+  font-size: 18px;
+}
+
+.town-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 32px;
+}
+
+.town-list span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 0 14px;
+  color: var(--ink);
+  border: 1px solid var(--hairline-strong);
+  border-radius: 9999px;
+  font-family: ui-monospace, "SF Mono", "Cascadia Mono", monospace;
+  font-size: 12px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
 }
 
 .rescue-gallery {
@@ -1111,6 +1143,7 @@ details p {
   .local-seo-section,
   .insurance-section,
   .services-section,
+  .coverage-towns-section,
   .transport-section,
   .process-section,
   .faq-section,
